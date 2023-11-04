@@ -19,6 +19,11 @@
 }
    ```
 
+4. Berikut adalah hasil output dari program
+
+   ![image](https://github.com/filyachiara/Assignment-1/assets/149679914/055b55a2-aa6d-4aba-881e-c258c71cda74)
+
+
 ## Tugas 2
 1. Membaca input dari pengguna dan penamaan variabel yaitu number menggunakan type data integer
 ```sh
@@ -42,6 +47,11 @@ number = scanner.nextInt();
             number = scanner.nextInt();
 }
    ```
+
+4. Berikut adalah hasil output dari program
+
+   ![image](https://github.com/filyachiara/Assignment-1/assets/149679914/4c3f934c-9822-46a0-8d38-f8e14f5b4ec1)
+
 
 ## Tugas 3
 1. Kode ini membuat objek Scanner untuk menerima input dari pengguna melalui konsol. Pengguna diminta memasukkan tanggal lahir dalam format "hari bulan" (contoh: 18 5 untuk tanggal 18 Mei). Input tersebut disimpan dalam variabel day dan month. Selanjutnya, program memanggil fungsi determineZodiacSign(day, month) untuk menentukan zodiak berdasarkan input pengguna. Hasilnya disimpan dalam variabel zodiacSign untuk digunakan selanjutnya.
@@ -87,6 +97,11 @@ number = scanner.nextInt();
         }
    ```
 
+4. Berikut adalah hasil output dari program
+
+   ![image](https://github.com/filyachiara/Assignment-1/assets/149679914/9961c2e2-65a3-491f-b7e0-3ee9008ceed6)
+
+
 ## Tugas 4
 1. Kode tersebut membuat sebuah array numbers yang berisi bilangan bulat dari 1 hingga 10. Selanjutnya, menggunakan sebuah loop for, program mencetak nilai-nilai dalam array tersebut satu per satu ke layar. Hasilnya adalah mencetak bilangan 1 hingga 10 ke layar.
 ```sh
@@ -97,3 +112,8 @@ number = scanner.nextInt();
             System.out.println(numbers[i]);
         }
    ```
+
+2. Berikut adalah hasil output dari program
+
+   ![image](https://github.com/filyachiara/Assignment-1/assets/149679914/ae26fdef-ddc0-4a4e-ab76-d4b3392ebaa1)
+
